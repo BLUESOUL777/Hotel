@@ -1,0 +1,26 @@
+Basic Setup:
+- npm init
+- express
+- mongoose (DB)
+- ejs
+
+toLocaleString("en-IN") --> used to given commas to number according to the indian standards.
+
+ejs mate :- package used to easy the enhance the use of templates.
+
+Always make the code modular that is divide it into sections that can be includesd rather than
+having a big code.
+
+keyword :- !important is used to override the prior command given
+in css.
+
+Form Validations :- to check if the data entered is in the correct format or not and also within the given constraints
+set by the application.Options to do so:- use required parameter in the input
+For custom Bootstrap form validation messages, you’ll need to add the novalidate boolean attribute to your <form>.
+
+400 err code signifies that the client has send wrong data hence the server cannot accept the request.
+
+joi a tool that validates the schema of the data send that is it simply checks that the data send it fullfilling all
+the parameters or not.
+
+$pull
